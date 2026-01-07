@@ -6,7 +6,7 @@
  * including the vehicle name and price. It includes validation for price
  * to ensure only non-negative values are accepted.
  *
- * @author Sushil
+ * @author Sushil Parajuli
  * @version 1.0
  */
 public class CarE
