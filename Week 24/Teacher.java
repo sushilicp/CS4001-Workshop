@@ -13,4 +13,8 @@ public class Teacher implements Serializable {
         this.age=age;
         this.rating=rating;
     }
+
+    public String toString(){
+        return "Name:"+this.name+" Salary:"+this.salary+" Age:"+this.age+" Rating:"+this.rating;
+    }
 }
